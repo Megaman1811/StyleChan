@@ -5,6 +5,7 @@
 add this to your adblocker's rules to suppress a popup from the old version
 
 @@||boards.4chan.org^$csp
+
 @@||boards.4channel.org^$csp
 
 
