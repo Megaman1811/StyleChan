@@ -1,3 +1,9 @@
+#### Im writing this in the readme to keep the original intact
+#### To install the new version, go to builds, click on StyleChan.user.js, click on raw, and install it.
+#### You will still need tampermonkey or greasemonkey obviously
+
+
+
 ![StyleChan](https://i.imgur.com/W8aFRNP.png) StyleChan
 ====
 
