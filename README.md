@@ -2,6 +2,11 @@
 #### To install the new version, go to builds, click on StyleChan.user.js, click on raw, and install it.
 #### You will still need tampermonkey or greasemonkey obviously
 
+add this to your adblocker's rules to suppress a popup from the old version
+
+@@||boards.4chan.org^$csp
+@@||boards.4channel.org^$csp
+
 
 
 ![StyleChan](https://i.imgur.com/W8aFRNP.png) StyleChan
